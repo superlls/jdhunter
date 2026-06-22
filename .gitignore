@@ -1,0 +1,11 @@
+# 运行产物
+*.pdf
+jd-candidate-pool.json
+jd-shortlist-preview.md
+jd-match-resume-pack.md
+repo-source-manifest.json
+.repo-source-cache/
+# Python
+__pycache__/
+*.pyc
+.DS_Store
